@@ -1,5 +1,7 @@
 # Loci
 
+**[View the type specimen →](https://yang-yibinn.github.io/loci-font/)**
+
 ![Loci: LOCI, A–Z, 0–9 and punctuation](docs/images/sample.svg)
 
 Loci is a single-weight display face of capitals, figures and essential
