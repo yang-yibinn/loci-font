@@ -1,0 +1,68 @@
+FONTLOG for Loci
+================
+
+This file provides detailed information on the Loci font software. This
+information should be distributed along with the Loci fonts and any
+derivative works.
+
+
+Basic Font Information
+----------------------
+
+Loci is a single-weight display face of capitals, figures and essential
+punctuation, made for the Loci desktop app: the wordmark, headings, mode
+names and numbers, wherever the interface should feel carved.
+
+Each glyph is drawn as centreline polylines, stroked at a fixed 4 units on a
+20-unit cap height (140 font units on a 700 cap height, UPM 1000), with butt
+caps, miter joins and 45-degree chamfers. There are no curves. Lowercase a-z
+map to the capitals.
+
+Character set: A-Z, 0-9, space, no-break space and
+  . , : ; ! ? ' " ( ) - – / _ & @ # % + = × · *
+
+Loci is a derivative of Tektur by Adam Jagosz (SIL OFL 1.1), traced from its
+wdth 87.5 / wght 600 instance with the ss01 (flat-topped A), ss05 (plain L)
+and zero (slashed zero) alternates. Spacing is Tektur's plus 0.75 units a side
+(26.25 font units).
+
+Files:
+  fonts/otf/Loci-Regular.otf         CFF OpenType, with GPOS kerning
+  fonts/webfonts/Loci-Regular.woff2  the same font for the web
+  sources/glyphs.json                the source: centreline polylines (icon
+                                     spacing), kept Tektur outlines, and the
+                                     font spacing and kerning
+  docs/index.html                    the type specimen
+  OFL.txt                            the licence
+
+
+ChangeLog
+---------
+
+16 November 2026 (Yibin Yang) Loci Version 1.000
+- First release. 59 glyphs plus space and .notdef.
+- Outlines expanded from the approved 1.0 alphabet (2026-11-05).
+- Punctuation and symbols: hyphen kept from Tektur; period, colon and middle
+  dot redrawn with the Loci dot; all others retraced. Each decision is
+  recorded in glyphs.json.
+- Hyphen, en dash, colon, semicolon, parentheses, + = × and · centred on the
+  capitals. @ and _ sit on the baseline. @ is drawn at 119 and * at 112 font
+  units; everything else at 140.
+- Spacing for running capitals: L right sidebearing -20, F right -10.
+- 34 kerning pairs: 26 measured from Tektur at the same instance, 8 for
+  punctuation Tektur doesn't kern or that Loci moved.
+- Vertical metrics from Tektur: ascender 1000, descender -300, line gap 0.
+
+
+Acknowledgements
+----------------
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Adam Jagosz
+W: https://github.com/hyvyys/Tektur
+D: Designer of Tektur, the typeface Loci is derived from
+
+N: Yibin Yang
+D: Loci: alphabet, outlines, punctuation, spacing and kerning

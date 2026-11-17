@@ -1,0 +1,1350 @@
+{
+ "name": "Loci",
+ "version": "1.0 · released 2026-11-16",
+ "source": "Tektur by Adam Jagosz (SIL OFL 1.1). Instance wdth 87.5, wght 600 (stem ≈ 0.2 × cap height, so a 4-unit groove fills the outline). Features: zero; ss01 and ss05 apply to A and L.",
+ "units": "Glyph units. Origin at the baseline on the left, y up. Cap height 20.",
+ "stroke": {
+  "groove": 4,
+  "cap": "butt",
+  "join": "miter",
+  "minJoinAngle": 90
+ },
+ "spacing": "Tektur sidebearings plus 0.75 each side.",
+ "sizing": "1–4 characters: cap height 20 in the 100-unit icon box, scaled down only when the word is wider than 50 units.",
+ "glyphs": {
+  "0": {
+   "advance": 17.01,
+   "polylines": [
+    {
+     "closed": true,
+     "points": [
+      [3.95,3.86],
+      [3.95,16.14],
+      [5.81,18],
+      [11.2,18],
+      [13.06,16.14],
+      [13.06,3.86],
+      [11.2,2],
+      [5.81,2]
+     ]
+    },
+    {
+     "points": [
+      [3.95,5.45],
+      [13.06,14.56]
+     ]
+    }
+   ]
+  },
+  "1": {
+   "advance": 12.16,
+   "polylines": [
+    {
+     "points": [
+      [1.95,18],
+      [6.29,18],
+      [6.29,2]
+     ]
+    },
+    {
+     "points": [
+      [1.86,2],
+      [10.46,2]
+     ]
+    }
+   ]
+  },
+  "2": {
+   "advance": 16.19,
+   "polylines": [
+    {
+     "points": [
+      [2.09,18],
+      [10.32,18],
+      [12.24,16.08],
+      [12.24,10.65],
+      [3.95,9.11],
+      [3.95,2],
+      [14.24,2]
+     ]
+    }
+   ]
+  },
+  "3": {
+   "advance": 15.51,
+   "polylines": [
+    {
+     "points": [
+      [1.69,18],
+      [9.63,18],
+      [11.44,16.19],
+      [11.44,12.23],
+      [9.44,10.23],
+      [2.69,10.23]
+     ]
+    },
+    {
+     "points": [
+      [9.44,10.23],
+      [9.98,10.23],
+      [11.98,8.23],
+      [11.98,3.8],
+      [10.18,2],
+      [1.44,2]
+     ]
+    }
+   ]
+  },
+  "4": {
+   "advance": 16.5,
+   "polylines": [
+    {
+     "points": [
+      [3.85,20],
+      [3.85,6.94],
+      [12.49,6.94]
+     ]
+    },
+    {
+     "points": [
+      [12.49,0],
+      [12.49,20]
+     ]
+    }
+   ]
+  },
+  "5": {
+   "advance": 16.19,
+   "polylines": [
+    {
+     "points": [
+      [14.24,18],
+      [3.95,18],
+      [3.95,10.87],
+      [12.24,10.11],
+      [12.24,3.92],
+      [10.32,2],
+      [2.09,2]
+     ]
+    }
+   ]
+  },
+  "6": {
+   "advance": 16.93,
+   "polylines": [
+    {
+     "points": [
+      [14.06,18],
+      [5.75,18],
+      [3.95,16.2],
+      [3.95,3.8],
+      [5.75,2],
+      [11.18,2],
+      [12.98,3.8],
+      [12.98,10.27],
+      [12.15,11.1],
+      [3.95,11.1]
+     ]
+    }
+   ]
+  },
+  "7": {
+   "advance": 15.79,
+   "polylines": [
+    {
+     "points": [
+      [3.55,12.91],
+      [3.55,18],
+      [12.26,18],
+      [12.26,12.97],
+      [5.74,1],
+      [5.74,0]
+     ]
+    }
+   ]
+  },
+  "8": {
+   "advance": 17.21,
+   "polylines": [
+    {
+     "closed": true,
+     "points": [
+      [4.21,12.3],
+      [4.21,16.26],
+      [5.95,18],
+      [11.3,18],
+      [13.04,16.26],
+      [13.04,12.3],
+      [11.04,10.3],
+      [6.21,10.3]
+     ]
+    },
+    {
+     "closed": true,
+     "points": [
+      [5.72,10.3],
+      [11.52,10.3],
+      [13.52,8.3],
+      [13.52,3.74],
+      [11.78,2],
+      [5.46,2],
+      [3.72,3.74],
+      [3.72,8.3]
+     ]
+    }
+   ]
+  },
+  "9": {
+   "advance": 16.93,
+   "polylines": [
+    {
+     "points": [
+      [2.86,2],
+      [11.18,2],
+      [12.98,3.8],
+      [12.98,16.2],
+      [11.18,18],
+      [5.75,18],
+      [3.95,16.2],
+      [3.95,9.76],
+      [4.81,8.9],
+      [12.98,8.9]
+     ]
+    }
+   ]
+  },
+  "A": {
+   "advance": 17.21,
+   "polylines": [
+    {
+     "points": [
+      [4.01,0],
+      [4.01,16.08],
+      [5.93,18],
+      [11.29,18],
+      [13.21,16.08],
+      [13.21,0]
+     ]
+    },
+    {
+     "points": [
+      [4.01,7.43],
+      [13.21,7.43]
+     ]
+    }
+   ]
+  },
+  "B": {
+   "advance": 16.96,
+   "polylines": [
+    {
+     "points": [
+      [4.01,0],
+      [4.01,20]
+     ]
+    },
+    {
+     "points": [
+      [4.01,18],
+      [11.09,18],
+      [12.84,16.25],
+      [12.84,12.3],
+      [10.84,10.3],
+      [4.01,10.3]
+     ]
+    },
+    {
+     "points": [
+      [4.01,10.3],
+      [11.41,10.3],
+      [13.41,8.3],
+      [13.41,3.75],
+      [11.66,2],
+      [4.01,2]
+     ]
+    }
+   ]
+  },
+  "C": {
+   "advance": 14.47,
+   "polylines": [
+    {
+     "points": [
+      [12.81,18],
+      [5.81,18],
+      [3.95,16.14],
+      [3.95,3.86],
+      [5.81,2],
+      [13.04,2]
+     ]
+    }
+   ]
+  },
+  "D": {
+   "advance": 16.83,
+   "polylines": [
+    {
+     "closed": true,
+     "points": [
+      [4.01,2],
+      [4.01,18],
+      [11.03,18],
+      [12.89,16.14],
+      [12.89,3.86],
+      [11.03,2]
+     ]
+    }
+   ]
+  },
+  "E": {
+   "advance": 14.57,
+   "polylines": [
+    {
+     "points": [
+      [12.86,18],
+      [4.01,18],
+      [4.01,2],
+      [13.15,2]
+     ]
+    },
+    {
+     "points": [
+      [4.01,10.23],
+      [12.01,10.23]
+     ]
+    }
+   ]
+  },
+  "F": {
+   "advance": 14.03,
+   "polylines": [
+    {
+     "points": [
+      [12.61,18],
+      [4.01,18],
+      [4.01,0]
+     ]
+    },
+    {
+     "points": [
+      [4.01,8.4],
+      [12.15,8.4]
+     ]
+    }
+   ]
+  },
+  "G": {
+   "advance": 16.79,
+   "polylines": [
+    {
+     "points": [
+      [14.06,18],
+      [5.81,18],
+      [3.95,16.14],
+      [3.95,3.86],
+      [5.81,2],
+      [12.84,2],
+      [12.84,10.4],
+      [8.15,10.4]
+     ]
+    }
+   ]
+  },
+  "H": {
+   "advance": 17.24,
+   "polylines": [
+    {
+     "points": [
+      [4.01,0],
+      [4.01,20]
+     ]
+    },
+    {
+     "points": [
+      [13.24,0],
+      [13.24,20]
+     ]
+    },
+    {
+     "points": [
+      [4.01,10.29],
+      [13.24,10.29]
+     ]
+    }
+   ]
+  },
+  "I": {
+   "advance": 11.79,
+   "polylines": [
+    {
+     "points": [
+      [1.69,18],
+      [10.09,18]
+     ]
+    },
+    {
+     "points": [
+      [1.69,2],
+      [10.09,2]
+     ]
+    },
+    {
+     "points": [
+      [5.89,2],
+      [5.89,18]
+     ]
+    }
+   ]
+  },
+  "J": {
+   "advance": 15.93,
+   "polylines": [
+    {
+     "points": [
+      [2.21,18],
+      [11.98,18],
+      [11.98,3.95],
+      [10.03,2],
+      [5.44,2],
+      [3.49,3.95],
+      [3.49,9.14]
+     ]
+    }
+   ]
+  },
+  "K": {
+   "advance": 17.13,
+   "polylines": [
+    {
+     "points": [
+      [4.01,0],
+      [4.01,20]
+     ]
+    },
+    {
+     "points": [
+      [4.01,10.15],
+      [9.75,10.15],
+      [13.81,19],
+      [13.81,20]
+     ]
+    },
+    {
+     "points": [
+      [9.75,10.15],
+      [14.24,1],
+      [14.24,0]
+     ]
+    }
+   ]
+  },
+  "L": {
+   "advance": 13.9,
+   "polylines": [
+    {
+     "points": [
+      [4.01,20],
+      [4.01,2],
+      [12.49,2]
+     ]
+    }
+   ]
+  },
+  "M": {
+   "advance": 19.73,
+   "polylines": [
+    {
+     "points": [
+      [4.01,0],
+      [4.01,20]
+     ]
+    },
+    {
+     "points": [
+      [4.2,19.15],
+      [8.87,9.14],
+      [10.86,9.14],
+      [15.53,19.15]
+     ]
+    },
+    {
+     "points": [
+      [15.72,0],
+      [15.72,20]
+     ]
+    }
+   ]
+  },
+  "N": {
+   "advance": 17.67,
+   "polylines": [
+    {
+     "points": [
+      [4.01,0],
+      [4.01,20]
+     ]
+    },
+    {
+     "points": [
+      [4.23,19.1],
+      [13.44,0.9]
+     ]
+    },
+    {
+     "points": [
+      [13.66,0],
+      [13.66,20]
+     ]
+    }
+   ]
+  },
+  "O": {
+   "advance": 17.5,
+   "polylines": [
+    {
+     "closed": true,
+     "points": [
+      [3.95,3.86],
+      [3.95,16.14],
+      [5.81,18],
+      [11.69,18],
+      [13.55,16.14],
+      [13.55,3.86],
+      [11.69,2],
+      [5.81,2]
+     ]
+    }
+   ]
+  },
+  "P": {
+   "advance": 16.53,
+   "polylines": [
+    {
+     "points": [
+      [4.01,0],
+      [4.01,18],
+      [11.12,18],
+      [12.98,16.14],
+      [12.98,8.03],
+      [11.12,6.17],
+      [4.01,6.17]
+     ]
+    }
+   ]
+  },
+  "Q": {
+   "advance": 17.5,
+   "polylines": [
+    {
+     "points": [
+      [13.49,0.23],
+      [13.49,16.14],
+      [11.63,18],
+      [5.81,18],
+      [3.95,16.14],
+      [3.95,3.86],
+      [5.81,2],
+      [16.04,-0.35]
+     ]
+    }
+   ]
+  },
+  "R": {
+   "advance": 17.13,
+   "polylines": [
+    {
+     "points": [
+      [4.01,0],
+      [4.01,18],
+      [11.32,18],
+      [13.18,16.14],
+      [13.18,8.3],
+      [12.38,7.5],
+      [4.01,7.5]
+     ]
+    },
+    {
+     "points": [
+      [11.05,7.5],
+      [13.92,1],
+      [13.92,0]
+     ]
+    }
+   ]
+  },
+  "S": {
+   "advance": 16.19,
+   "polylines": [
+    {
+     "points": [
+      [14.01,18],
+      [5.75,18],
+      [3.95,16.2],
+      [3.95,10.53],
+      [12.24,9.76],
+      [12.24,3.81],
+      [10.43,2],
+      [2.15,2]
+     ]
+    }
+   ]
+  },
+  "T": {
+   "advance": 14.59,
+   "polylines": [
+    {
+     "points": [
+      [1.26,18],
+      [13.32,18]
+     ]
+    },
+    {
+     "points": [
+      [7.27,0],
+      [7.27,18]
+     ]
+    }
+   ]
+  },
+  "U": {
+   "advance": 17.07,
+   "polylines": [
+    {
+     "points": [
+      [4.01,20],
+      [4.01,3.86],
+      [5.87,2],
+      [11.2,2],
+      [13.06,3.86],
+      [13.06,20]
+     ]
+    }
+   ]
+  },
+  "V": {
+   "advance": 17.07,
+   "polylines": [
+    {
+     "points": [
+      [3.19,20],
+      [3.19,19],
+      [6.18,2],
+      [10.89,2],
+      [13.88,19],
+      [13.88,20]
+     ]
+    }
+   ]
+  },
+  "W": {
+   "advance": 23.62,
+   "polylines": [
+    {
+     "points": [
+      [3.3,20],
+      [3.3,19],
+      [5.18,2],
+      [8.73,2],
+      [10.44,14.86],
+      [13.18,14.86],
+      [14.89,2],
+      [18.44,2],
+      [20.33,19],
+      [20.33,20]
+     ]
+    }
+   ]
+  },
+  "X": {
+   "advance": 17.1,
+   "polylines": [
+    {
+     "points": [
+      [3.55,20],
+      [3.55,19],
+      [6.52,10.29],
+      [10.61,10.29],
+      [13.94,1],
+      [13.94,0]
+     ]
+    },
+    {
+     "points": [
+      [13.58,20],
+      [13.58,19],
+      [10.61,10.29],
+      [6.52,10.29],
+      [3.2,1],
+      [3.2,0]
+     ]
+    }
+   ]
+  },
+  "Y": {
+   "advance": 16.93,
+   "polylines": [
+    {
+     "points": [
+      [3.31,20],
+      [3.31,19],
+      [5.8,8],
+      [11.13,8],
+      [13.63,19],
+      [13.63,20]
+     ]
+    },
+    {
+     "points": [
+      [8.47,0],
+      [8.47,8]
+     ]
+    }
+   ]
+  },
+  "Z": {
+   "advance": 14.87,
+   "polylines": [
+    {
+     "points": [
+      [1.69,18],
+      [13.18,18]
+     ]
+    },
+    {
+     "points": [
+      [1.69,2],
+      [13.18,2]
+     ]
+    },
+    {
+     "points": [
+      [11.44,16.99],
+      [3.43,3.01]
+     ]
+    }
+   ]
+  },
+  ".": {
+   "advance": 8.13,
+   "polylines": [
+    {
+     "points": [
+      [4.06,0],
+      [4.06,4]
+     ]
+    }
+   ],
+   "note": "matched: Tektur's 134 × 140 block passes the tests, but is redrawn as Loci's 140 × 140 dot (one 4-unit stroke) so every dot in the font is the same square; advance and centre unchanged",
+   "batch": 4
+  },
+  ",": {
+   "advance": 8.13,
+   "polylines": [
+    {
+     "points": [
+      [4.06,4],
+      [4.06,0],
+      [2.46,-3]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's tail is only 78 units thick and ends in a 59° point cut flat in mid-air; redrawn as one bent 4-unit stroke that ends square, like Q's tail",
+   "batch": 4
+  },
+  ":": {
+   "advance": 8.13,
+   "polylines": [
+    {
+     "points": [
+      [4.06,3.14],
+      [4.06,7.14]
+     ]
+    },
+    {
+     "points": [
+      [4.06,13.43],
+      [4.06,17.43]
+     ]
+    }
+   ],
+   "note": "matched: two of the new 140 × 140 dots, so the colon's top dot is identical to the semicolon's; raised 110 units so the pair centres on the capitals",
+   "batch": 4
+  },
+  ";": {
+   "advance": 8.13,
+   "polylines": [
+    {
+     "points": [
+      [4.06,7.14],
+      [4.06,3.14],
+      [2.46,0.14]
+     ]
+    },
+    {
+     "points": [
+      [4.06,13.43],
+      [4.06,17.43]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's semicolon is built on its comma; rebuilt as the new comma plus the colon's top dot, raised with the colon",
+   "batch": 4
+  },
+  "!": {
+   "advance": 8.7,
+   "polylines": [
+    {
+     "points": [
+      [4.35,20],
+      [4.35,6.46]
+     ]
+    },
+    {
+     "points": [
+      [4.35,0],
+      [4.35,4]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's bar tapers from 162 to 110 units; redrawn as a straight 4-unit bar over the dot, keeping Tektur's 86-unit gap",
+   "batch": 4
+  },
+  "?": {
+   "advance": 14.27,
+   "polylines": [
+    {
+     "points": [
+      [1.24,18],
+      [9.2,18],
+      [11.12,16.08],
+      [11.12,11],
+      [5.32,9.3],
+      [5.32,6.23]
+     ]
+    },
+    {
+     "points": [
+      [5.32,0],
+      [5.32,4]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's top bar and spine are about 124 thick; redrawn as one 4-unit stroke with a 45° chamfer, built like the 2",
+   "batch": 4
+  },
+  "'": {
+   "advance": 7.44,
+   "polylines": [
+    {
+     "points": [
+      [3.72,20],
+      [3.72,13.14]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's mark is a tapered wedge (136 to 96 wide); redrawn as a straight 4-unit bar, 240 tall",
+   "batch": 4
+  },
+  "\"": {
+   "advance": 12.84,
+   "polylines": [
+    {
+     "points": [
+      [3.42,20],
+      [3.42,13.14]
+     ]
+    },
+    {
+     "points": [
+      [9.42,20],
+      [9.42,13.14]
+     ]
+    }
+   ],
+   "note": "retraced: two tapered wedges; redrawn as two 4-unit bars with a 2-unit gap (Tektur's average)",
+   "batch": 4
+  },
+  "(": {
+   "advance": 10.07,
+   "polylines": [
+    {
+     "points": [
+      [8.84,20],
+      [5.9,20],
+      [4.04,18.14],
+      [4.04,1.86],
+      [5.9,0],
+      [8.84,0]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's arms are 118 thick and the inside corners are square; redrawn as one stroke with 45° chamfers like C, arms on the baseline and cap line",
+   "batch": 4
+  },
+  ")": {
+   "advance": 10.07,
+   "polylines": [
+    {
+     "points": [
+      [1.23,20],
+      [4.17,20],
+      [6.03,18.14],
+      [6.03,1.86],
+      [4.17,0],
+      [1.23,0]
+     ]
+    }
+   ],
+   "note": "retraced: mirror of the new (",
+   "batch": 4
+  },
+  "-": {
+   "source": "tektur",
+   "advance": 10.3,
+   "outline": "M1.89 8.33 L 1.89 12.24 L 8.41 12.24 L 8.41 8.33 Z",
+   "note": "kept: 137-thick bar with square ends; raised 40 units to line up with H's crossbar",
+   "batch": 4
+  },
+  "–": {
+   "advance": 12.93,
+   "polylines": [
+    {
+     "points": [
+      [1.89,10.29],
+      [11.04,10.29]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's en dash is 124 thick, lighter than its hyphen; redrawn as a 4-unit bar at hyphen height",
+   "batch": 4
+  },
+  "/": {
+   "advance": 12.33,
+   "polylines": [
+    {
+     "points": [
+      [3.32,0],
+      [3.32,1],
+      [9.01,19],
+      [9.01,20]
+     ]
+    }
+   ],
+   "note": "retraced: the weight is right (135), but both ends are cut flat with a 72° corner; Loci diagonals end in a 1-unit upright stub (V, X, 7), so it is redrawn with stubs at Tektur's angle and advance",
+   "batch": 5
+  },
+  "_": {
+   "advance": 16.13,
+   "polylines": [
+    {
+     "points": [
+      [2.06,2],
+      [14.06,2]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's bar is 128 thick and hangs below the baseline; redrawn as a 4-unit bar sitting on the baseline, level with the feet of E, L and Z",
+   "batch": 5
+  },
+  "&": {
+   "advance": 19.85,
+   "polylines": [
+    {
+     "points": [
+      [15.44,18],
+      [8.69,18],
+      [7.35,16.65],
+      [16.6,1],
+      [16.6,0]
+     ]
+    },
+    {
+     "points": [
+      [10.47,11.37],
+      [5.72,11.37],
+      [3.86,9.51],
+      [3.86,3.86],
+      [5.72,2],
+      [10,2],
+      [16.26,12.58]
+     ]
+    }
+   ],
+   "note": "retraced: strokes vary from 108 to 142 and the tail ends in a flat cut in mid-air; redrawn as two 4-unit strokes (top bar into the diagonal, bowl into the tail), with the tail ending square like Q's",
+   "batch": 5
+  },
+  "@": {
+   "advance": 21.74,
+   "stroke": 3.4,
+   "polylines": [
+    {
+     "points": [
+      [19.73,1.7],
+      [5.29,1.7],
+      [3.71,3.28],
+      [3.71,16.72],
+      [5.29,18.3],
+      [16.45,18.3],
+      [18.03,16.72],
+      [18.03,8.68],
+      [16.45,7.1],
+      [11.99,7.1],
+      [10.41,8.68],
+      [10.41,12.9],
+      [18.03,12.9]
+     ]
+    }
+   ],
+   "note": "retraced: strokes are 111 to 130 thick, the inner a has a 4° sloped top, and it hangs below the baseline; redrawn as one square spiral between baseline and cap line, at 3.4 units (119): four bars with open gaps only fit in 20 units at about 3.4 or lighter, and 3.4 matches the asterisk",
+   "batch": 5
+  },
+  "#": {
+   "advance": 20.61,
+   "polylines": [
+    {
+     "points": [
+      [6.31,0],
+      [6.31,20]
+     ]
+    },
+    {
+     "points": [
+      [14.31,0],
+      [14.31,20]
+     ]
+    },
+    {
+     "points": [
+      [2.01,5.35],
+      [18.61,5.35]
+     ]
+    },
+    {
+     "points": [
+      [2.01,14.65],
+      [18.61,14.65]
+     ]
+    }
+   ],
+   "note": "retraced: bars are 114 and 125 thick; redrawn as four 4-unit bars, upright as in Tektur, with the verticals one stroke apart",
+   "batch": 5
+  },
+  "%": {
+   "advance": 15.81,
+   "polylines": [
+    {
+     "points": [
+      [3.84,0],
+      [3.84,1],
+      [11.97,19],
+      [11.97,20]
+     ]
+    },
+    {
+     "points": [
+      [3.66,16],
+      [3.66,20]
+     ]
+    },
+    {
+     "points": [
+      [12.15,0],
+      [12.15,4]
+     ]
+    }
+   ],
+   "note": "retraced: the slash is 121 thick and the dots are 130 × 152; redrawn with Loci's 140 × 140 dot and a 4-unit slash with stubs, at Tektur's angle",
+   "batch": 5
+  },
+  "+": {
+   "advance": 18.64,
+   "polylines": [
+    {
+     "points": [
+      [1.89,10.29],
+      [16.75,10.29]
+     ]
+    },
+    {
+     "points": [
+      [9.32,2.86],
+      [9.32,17.72]
+     ]
+    }
+   ],
+   "note": "retraced: the arms are 124 and 132 thick; redrawn as two 4-unit bars at Tektur's size, centred on H's crossbar like the hyphen",
+   "batch": 5
+  },
+  "=": {
+   "advance": 18.64,
+   "polylines": [
+    {
+     "points": [
+      [1.89,6.79],
+      [16.75,6.79]
+     ]
+    },
+    {
+     "points": [
+      [1.89,13.79],
+      [16.75,13.79]
+     ]
+    }
+   ],
+   "note": "retraced: the bars are 116 thick; redrawn at 4 units with Tektur's 3-unit gap, centred on H's crossbar",
+   "batch": 5
+  },
+  "×": {
+   "advance": 18.64,
+   "polylines": [
+    {
+     "points": [
+      [3.42,4.39],
+      [15.22,16.19]
+     ]
+    },
+    {
+     "points": [
+      [3.42,16.19],
+      [15.22,4.39]
+     ]
+    }
+   ],
+   "note": "retraced: the shape fits (45° arms, square ends), but the arms are 123 thick; redrawn at 4 units, centred on H's crossbar",
+   "batch": 5
+  },
+  "·": {
+   "advance": 7.61,
+   "polylines": [
+    {
+     "points": [
+      [3.81,8.29],
+      [3.81,12.29]
+     ]
+    }
+   ],
+   "note": "matched: Tektur's 134 × 140 dot passes, but is redrawn as Loci's 140 × 140 dot like the period, and centred on H's crossbar",
+   "batch": 5
+  },
+  "*": {
+   "advance": 14.99,
+   "stroke": 3.2,
+   "polylines": [
+    {
+     "points": [
+      [7.49,7.5],
+      [7.49,20]
+     ]
+    },
+    {
+     "points": [
+      [2.18,10.46],
+      [12.8,17.04]
+     ]
+    },
+    {
+     "points": [
+      [2.18,17.04],
+      [12.8,10.46]
+     ]
+    }
+   ],
+   "note": "retraced: Tektur's arms are 105 thick, and at 4 units the hub fills in at 24 px; redrawn as three 3.2-unit (112) strokes at Tektur's angles (upright and ±32°), top on the cap line",
+   "batch": 5
+  }
+ },
+ "note": "Advances here are the icon spacing used by the Loci app (approved 2026-11-05). The font applies its own running-text spacing on top: see font.spacing.",
+ "font": {
+  "file": "Loci-Regular.otf",
+  "version": "1.000",
+  "upm": 1000,
+  "capHeight": 700,
+  "fuPerUnit": 35,
+  "stroke": 140,
+  "spacing": {
+   "note": "Font-only spacing for running capitals. data/glyphs.json keeps the icon spacing. Kern values in font units, applied as GPOS kern pair adjustments; a–z share the capital glyphs so they kern too.",
+   "sidebearings": {
+    "L": {
+     "rsb": -20,
+     "why": "open right side left holes in running caps (LOCI, LAYOUT, FILES)"
+    },
+    "F": {
+     "rsb": -10,
+     "why": "open lower right side; FO, FI read loose"
+    }
+   },
+   "kerning": [
+    {
+     "pair": "LT",
+     "value": -87,
+     "source": "tektur"
+    },
+    {
+     "pair": "LY",
+     "value": -67,
+     "source": "tektur"
+    },
+    {
+     "pair": "LV",
+     "value": -44,
+     "source": "tektur"
+    },
+    {
+     "pair": "LW",
+     "value": -16,
+     "source": "tektur"
+    },
+    {
+     "pair": "YC",
+     "value": -17,
+     "source": "tektur"
+    },
+    {
+     "pair": "YG",
+     "value": -17,
+     "source": "tektur"
+    },
+    {
+     "pair": "YO",
+     "value": -17,
+     "source": "tektur"
+    },
+    {
+     "pair": "YQ",
+     "value": -17,
+     "source": "tektur"
+    },
+    {
+     "pair": "DY",
+     "value": -17,
+     "source": "tektur"
+    },
+    {
+     "pair": "OY",
+     "value": -17,
+     "source": "tektur"
+    },
+    {
+     "pair": "T.",
+     "value": -78,
+     "source": "tektur"
+    },
+    {
+     "pair": "T,",
+     "value": -78,
+     "source": "tektur"
+    },
+    {
+     "pair": "V.",
+     "value": -44,
+     "source": "tektur"
+    },
+    {
+     "pair": "V,",
+     "value": -44,
+     "source": "tektur"
+    },
+    {
+     "pair": "W.",
+     "value": -20,
+     "source": "tektur"
+    },
+    {
+     "pair": "W,",
+     "value": -20,
+     "source": "tektur"
+    },
+    {
+     "pair": "F.",
+     "value": -28,
+     "source": "tektur"
+    },
+    {
+     "pair": "F,",
+     "value": -28,
+     "source": "tektur"
+    },
+    {
+     "pair": "P.",
+     "value": -35,
+     "source": "tektur"
+    },
+    {
+     "pair": "P,",
+     "value": -35,
+     "source": "tektur"
+    },
+    {
+     "pair": ".T",
+     "value": -78,
+     "source": "tektur"
+    },
+    {
+     "pair": ",T",
+     "value": -78,
+     "source": "tektur"
+    },
+    {
+     "pair": ".V",
+     "value": -46,
+     "source": "tektur"
+    },
+    {
+     "pair": ",V",
+     "value": -46,
+     "source": "tektur"
+    },
+    {
+     "pair": ".W",
+     "value": -20,
+     "source": "tektur"
+    },
+    {
+     "pair": ",W",
+     "value": -20,
+     "source": "tektur"
+    },
+    {
+     "pair": "Y.",
+     "value": -79,
+     "source": "rule"
+    },
+    {
+     "pair": "T-",
+     "value": -72,
+     "source": "rule"
+    },
+    {
+     "pair": "T–",
+     "value": -72,
+     "source": "rule"
+    },
+    {
+     "pair": "Y-",
+     "value": -24,
+     "source": "rule"
+    },
+    {
+     "pair": "Y–",
+     "value": -24,
+     "source": "rule"
+    },
+    {
+     "pair": "L'",
+     "value": -51,
+     "source": "rule"
+    },
+    {
+     "pair": "L\"",
+     "value": -41,
+     "source": "rule"
+    },
+    {
+     "pair": "Y,",
+     "value": -79,
+     "source": "rule (comma kerns like the period)"
+    }
+   ]
+  }
+ }
+}
